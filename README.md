@@ -10,6 +10,24 @@ dependencies:
       url: https://github.com/sanjeevbishnoi/flutter-flipkart-affiliate
       ref: main
 ```
+## Other Instructions
+     just visit https://affiliate.flipkart.com/ and create account and in dashboard under API section just click on generate token, copy and paste your affiliate id and token into this /example/lib/fk/fk.dart file
+     ```
+     import 'package:fk_affiliate/fk_affiliate.dart';
+
+fkAffiliate(Function(FKAffiliate) api) {
+  FKAffiliate fkAffiliate = FKAffiliate.getInstance(config: {
+    // change this with your affliate ID and Token
+    fkAffiliateId: "YOUR AFFILIATE ID",
+    fkAffiliateToken: "YOUR AFFILIATE TOKEN"
+  });
+  return api(fkAffiliate);
+}
+
+     ```
+
+
+
 
 ## Screenshot
 
