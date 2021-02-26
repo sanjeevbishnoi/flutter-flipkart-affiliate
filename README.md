@@ -1,4 +1,4 @@
-# Flutter Library for Flipkart Affliliates. 
+# Flutter Library for Flipkart Affiliates. 
 
 Flutter library to fetch Deals of the day and Offers from Flipkart Affiliate API
 
