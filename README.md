@@ -13,8 +13,7 @@ dependencies:
 
 ## Other Instructions
 
-     just visit [https://affiliate.flipkart.com/](https://affiliate.flipkart.com/ and create account and in dashboard under API section just click on generate token, copy and paste your affiliate id and token into  
-     /example/lib/fk/fk.dart file
+just visit [https://affiliate.flipkart.com/](https://affiliate.flipkart.com/) and create account and in dashboard under API section just click on generate token, copy and paste your affiliate id and token into /example/lib/fk/fk.dart file
      
 ## Screenshot
 
