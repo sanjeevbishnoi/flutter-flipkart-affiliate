@@ -1,14 +1,7 @@
 # fk_affiliate
 
-A new Flutter package project.
+Flutter library to fetch Deals of the day and Offers from Flipkart Affiliate API
 
 ## Getting Started
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![screenshot](https://github.com/sanjeevbishnoi/flutter-flipkart-affiliate/blob/master/screenshots/screen.png?raw=true)
